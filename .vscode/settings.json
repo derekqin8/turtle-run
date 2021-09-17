@@ -1,0 +1,26 @@
+{
+    "terminal.integrated.env.windows": {
+        "VsDevCmd": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\Build\\vcvars64.bat\""
+    },
+    "terminal.integrated.profiles.windows": {
+        "cmd.exe (migrated)": {
+            "path": "cmd.exe",
+            "args": [
+                "/k",
+                "%VsDevCmd%",
+                "&&",
+                "powershell.exe"
+            ]
+        }
+    },
+    // User-level only... Just delete when you're done with the course.
+    "terminal.integrated.defaultProfile.windows": "cmd.exe (migrated)",
+    "files.associations": {
+        "polygon.h": "c",
+        "forces.h": "c",
+        "stdlib.h": "c",
+        "sdl2_gfxprimitives.h": "c",
+        "sdl.h": "c",
+        "sdl_image.h": "c"
+    }
+}
