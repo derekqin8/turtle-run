@@ -2,7 +2,7 @@
 ---
 Turtle Run is a fun 2D sidescroller game with powerups, procedurally generated terrain, coins, a full menu GUI, and global high score tracking.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/A1Rat8rLp3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Turtle Run Youtube Video](https://img.youtube.com/vi/A1Rat8rLp3o/0.jpg)](https://www.youtube.com/watch?v=A1Rat8rLp3o)
 
 To compile the game, run
 ```
